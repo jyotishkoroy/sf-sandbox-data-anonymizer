@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Operational dashboard for integrations: API limits, Named Credentials, webhook inbox, replay, correlation patterns.</description>
+    <formFactors>Large</formFactors>
+    <label>Integration Observability Pack</label>
+    <navType>Standard</navType>
+    <tabs>Integration_Observability_Pack</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
